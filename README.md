@@ -1,4 +1,4 @@
-# USAGE
+# USAGE [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 ```php
 include_once("debug.php");
 $var
